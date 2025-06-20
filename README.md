@@ -13,7 +13,7 @@
 Merhaba! Ben profesyonel bir yazılımcı değilim, ama içimde daima kodlara, sistemlere ve geliştirici dünyasına karşı bir merak vardı.  
 Yeni yeni bu dünyaya adım atıyor olsam da, bir şeyler üretmeyi, öğrenmeyi ve gelişmeyi seviyorum.
 
-🔸 Yazılıma ilgim 2024’te yoğunlaştı  
+🔸 Yazılıma ilgim 2025’te yoğunlaştı - çocukluktan beri merakım var
 🔸 Özellikle CloudStream ile ilgili botlar, otomasyonlar ilgimi çekiyor  
 🔸 GitHub'ı aktif olarak kullanmak, projeler takip etmek istiyorum  
 
